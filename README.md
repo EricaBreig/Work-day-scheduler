@@ -12,7 +12,7 @@ In this assignment, I learned to utiilize the following:
 - jQuery for simplified functions
 - Bootstrap for styling and formatting
 - Google fonts for styling
-![A user clicks on slots on the color-coded calendar and edits the events.](./assets/images/dailyworkplanner.gif)
+![A user clicks on slots on the color-coded calendar and saves the input.](./assets/images/dailyworkplanner.gif)
 
 ## Credit
 Myself, and Trilogy Education Services for providing the starter code.
