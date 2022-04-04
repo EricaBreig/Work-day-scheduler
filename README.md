@@ -13,10 +13,10 @@ The planner allows the user to type in their plans for each hour of their work d
 When they hit the save button, it saves their input to the local file, even after refreshing the page.
 In this assignment, I learned to utilize the following:
 
-- jQuery for simplified functions
+- jQuery for simplified functions, particularly saving user input to local storage in the jQuery style
+- utilizing Moment()
 - Bootstrap for styling and formatting
-- Google fonts for styling
-- saving user input to local storage
+- Google fonts for unique font styling
 
 ### Below is an example of how the app should function:
 
