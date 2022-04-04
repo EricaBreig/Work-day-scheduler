@@ -1,5 +1,7 @@
 body {
-  font-family: cursive;
+  background-color: antiquewhite;
+  font-family: "Lobster", cursive;
+  font-family: "Shadows Into Light", cursive;
   font-size: 16px;
   line-height: 1;
 }
@@ -39,8 +41,9 @@ textarea {
 }
 
 .hour {
-  background-color: #ffffff;
+  background-color:lightcoral;
   color: #000000;
+  font-size: 30px;
   border-top: 1px dashed #000000;
 }
 
