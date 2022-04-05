@@ -30,10 +30,10 @@ $(document).ready(function () {
     var currentHour = moment().hour(); // selects the current hour
 
     $(".time-block").each(function () {
-      var idTime = parseInt($(this).attr("id"));
-      if (idTime < currentHour) {
+      var plannerHour = parseInt($(this).attr("id"));
+      if (plannerHour < currentHour) {
         $(this).addClass("past");
-      } else if (idTime === currentHour) {
+      } else if (plannerHour === currentHour) {
         $(this).addClass("present");
         $(this).removeClass("past");
       } else {
