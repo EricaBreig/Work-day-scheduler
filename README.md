@@ -20,7 +20,7 @@ In this assignment, I learned to utilize the following:
 
 ### Below is an example of how the app should function:
 
-![A user clicks on slots on the color-coded calendar and saves the input.](./assets/images/dailyworkplanner.gif)
+![A user clicks on slots on the color-coded calendar, types something in a text area and saves the input.](./assets/images/dailyworkplanner.gif)
 
 ## Credit
 
