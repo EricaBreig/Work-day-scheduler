@@ -1,4 +1,4 @@
-# Assingment 5: Work Day Scheduler
+# Work Day Scheduler
 
 For this assignment, we were tasked with making a simple work day planner using Third Party APIs.
 
